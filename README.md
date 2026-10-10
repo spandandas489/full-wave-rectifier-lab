@@ -1,1 +1,0 @@
-# full-wave-rectifier-lab
